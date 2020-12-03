@@ -1,8 +1,8 @@
 ---
-title: "demo of referencing in Rmarkdown"
-author: "Richard Martin"
+title: "put your title here"
+author: "put your name (and ID) here"
 date: "10/11/2020"
-output: html_document
+output: pdf_document
 bibliography: scholar.bib
 csl: apa.csl
 ---
@@ -10,6 +10,17 @@ csl: apa.csl
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+## Statement of academic integrity
+
+Students must abide by  [UVic
+  academic regulations](https://www.uvic.ca/calendar/undergrad/index.php#/policy/Sk_0xsM_V?bc=true&bcCurrent=08%20-%20Policy%20on%20Academic%20Integrity&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies)
+ and observe standards of scholarly integrity
+(i.e. no plagiarism or cheating). Therefore, this assignment must be
+taken individually and not with a friend, classmate, or group. You are
+also prohibited from sharing any information about the assignment with
+others. I affirm that I will not give or receive any aid on this assignment 
+and that all work will be my own. **put your name here**
 
 ## First section.
 
