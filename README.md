@@ -1,1 +1,1 @@
-# Rmarkdown-and-references
+# template for essay demonstrating referencing in Rmarkdown.
