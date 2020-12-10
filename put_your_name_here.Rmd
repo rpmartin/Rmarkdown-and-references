@@ -24,6 +24,8 @@ and that all work will be my own. **put your name here**
 
 ## First section.
 
-I like to use the .bib format for references (you can download references in this format from google scholar, and just add them to the scholar.bib file). Regarding style, I do not think it really matters, but here I go with apa which I downloaded from [https://www.zotero.org/styles?q=apa].  Now I shamelessly plug one of my own papers, which is not at all relevant:  [@martin2008donation]
+I like to use the .bib format for references (you can download references in this format from google scholar, and just add them to the scholar.bib file).
+Regarding style, I do not think it really matters, but here I go with apa which I downloaded from [https://www.zotero.org/styles?q=apa]. 
+Now I shamelessly plug one of my own papers, which is not at all relevant:  [@martin2008donation]
  
 # References
