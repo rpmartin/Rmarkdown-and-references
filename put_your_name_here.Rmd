@@ -2,7 +2,7 @@
 title: "put your title here"
 author: "put your name (and ID) here"
 date: "`r format(Sys.time(), '%Y-%m-%d')`"
-output: pdf_document
+output: html_document
 bibliography: scholar.bib
 csl: apa.csl
 ---
@@ -22,10 +22,31 @@ also prohibited from sharing any information about the assignment with
 others. I affirm that I will not give or receive any aid on this assignment 
 and that all work will be my own. **put your name here**
 
-## First section.
+## Referencing:
 
-I like to use the .bib format for references (you can download references in this format from google scholar, and just add them to the scholar.bib file).
-Regarding style, I do not think it really matters, but here I go with apa which I downloaded from [https://www.zotero.org/styles?q=apa]. 
-Now I shamelessly plug one of my own papers, which is not at all relevant:  [@martin2008donation]
- 
+I like to use the .bib format for references:
+
+### Journal articles:
+
+Go to [Google scholar](https://scholar.google.com/)  and search.
+
+To cite click on the quotation marks " 
+
+![](citation3.png)
+
+Then choose BibTeX
+
+![](citation2.png)
+
+Then copy and paste the following into your scholar.bib file.
+
+
+![](citation.png)
+
+Now I shamelessly plug one of my own papers, which is not at all relevant: [@martin2008donation]. 
+
+### Online resources.
+
+Google scholar is convenient for generating citations for journal articles, but does not include things like newspapers, websites, etc.  This [website](https://www.bibme.org/bibtex/website-citation) is much more broad than google scholar.  Make sure you select BibTeX generic citation, and then click through a few screens to get your citation.  Your citation should look similar to my citation above. By including a section called #References in my .Rmd file my list of references is auto generated in a consistent style. 
+
 # References
